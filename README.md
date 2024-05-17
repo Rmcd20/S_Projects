@@ -1,5 +1,6 @@
 
 Bubble Exercise
+
 This project is a simple interactive animation created with p5.js where users can generate bubbles and rectangles on the canvas by clicking and pressing keys. The bubbles move randomly, and the rectangles are created or reset when the spacebar is pressed.
 
 Features
@@ -14,12 +15,12 @@ Clone this repository to your local machine:
 
 bash
 
-Copiar código
-git clone https://github.com/yourusername/BubbleExercise.git
+git clone https://github.com/Rmcd20/BubbleExercise.git
 
 Navigate to the project directory:
+
 bash
-Copiar código
+
 cd BubbleExercise
 Open index.html in your preferred web browser.
 
